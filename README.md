@@ -10,7 +10,7 @@ https://matplotlib.org/examples/showcase/anatomy.html
 
 
 ```
-<b>This figure shows the name of several matplotlib elements composing a figure<b>
+This figure shows the name of several matplotlib elements composing a figure
 ```
 
 ```python
@@ -75,64 +75,102 @@ def circle(x, y, radius=0.15):
 def text(x, y, text):
     ax.text(x, y, text, backgroundcolor="white",
             ha='center', va='top', weight='bold', color='blue')
-
 ```
-<b>Minor tick<b>
 ```
-
+Minor tick
+```
 ```python
 circle(0.50, -0.10)
 text(0.50, -0.32, "Minor tick label")
-
-<b>Major tick<b>
+```
+```
+Major tick
+```
+```python
 circle(-0.03, 4.00)
 text(0.03, 3.80, "Major tick")
-
-<b>Minor tick<b>
+```
+```
+Minor tick
+```
+```python
 circle(0.00, 3.50)
 text(0.00, 3.30, "Minor tick")
-
-<b>Major tick label<b>
+```
+```
+Major tick label
+```
+```python
 circle(-0.15, 3.00)
 text(-0.15, 2.80, "Major tick label")
-
-<b>X Label<b>
+```
+```
+X Label
+```
+```python
 circle(1.80, -0.27)
 text(1.80, -0.45, "X axis label")
-
-<b>Y Label<b>
+```
+```
+Y Label
+```
+```python
 circle(-0.27, 1.80)
 text(-0.27, 1.6, "Y axis label")
-
-<b>Title<b>
+```
+```
+Title
+```
+```python
 circle(1.60, 4.13)
 text(1.60, 3.93, "Title")
-
-<b>Blue plot<b>
+```
+```
+Blue plot
+```
+```python
 circle(1.75, 2.80)
 text(1.75, 2.60, "Line\n(line plot)")
-
-<b>Red plot<b>
+```
+```
+Red plot
+```
+```python
 circle(1.20, 0.60)
 text(1.20, 0.40, "Line\n(line plot)")
-
-<b>Scatter plot<b>
+```
+```
+Scatter plot
+```
+```python
 circle(3.20, 1.75)
 text(3.20, 1.55, "Markers\n(scatter plot)")
-
-<b>Grid<b>
+```
+```
+Grid
+```
+```python
 circle(3.00, 3.00)
 text(3.00, 2.80, "Grid")
-
-<b>Legend<b>
+```
+```
+Legend
+```
+```python
 circle(3.70, 3.80)
 text(3.70, 3.60, "Legend")
-
-<b>Axes<b>
+```
+```
+Axes
+```
+```python
 circle(0.5, 0.5)
 text(0.5, 0.3, "Axes")
-
-<b>Figure<b>
+```
+```
+Figure
+```
+```python
 circle(-0.3, 0.65)
 text(-0.3, 0.45, "Figure")
 
