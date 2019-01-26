@@ -199,10 +199,9 @@ plt.show()
 
 
 
-https://matplotlib.org/examples/pylab_examples/scatter_hist.html
+[Source](https://matplotlib.org/examples/pylab_examples/scatter_hist.html)
 
-
-[Source](https://nbviewer.jupyter.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb/)
+[Pending reviewer](https://nbviewer.jupyter.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb/)
 
 
 
