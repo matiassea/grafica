@@ -11,7 +11,7 @@ https://matplotlib.org/examples/showcase/anatomy.html
 
 '''python
 
-# This figure shows the name of several matplotlib elements composing a figure
+<b>This figure shows the name of several matplotlib elements composing a figure<b>
 
 import numpy as np
 import matplotlib.pyplot as plt
