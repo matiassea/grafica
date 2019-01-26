@@ -76,59 +76,59 @@ def text(x, y, text):
             ha='center', va='top', weight='bold', color='blue')
 
 
-# Minor tick
+<b>Minor tick<b>
 circle(0.50, -0.10)
 text(0.50, -0.32, "Minor tick label")
 
-# Major tick
+<b>Major tick<b>
 circle(-0.03, 4.00)
 text(0.03, 3.80, "Major tick")
 
-# Minor tick
+<b>Minor tick<b>
 circle(0.00, 3.50)
 text(0.00, 3.30, "Minor tick")
 
-# Major tick label
+<b>Major tick label<b>
 circle(-0.15, 3.00)
 text(-0.15, 2.80, "Major tick label")
 
-# X Label
+<b>X Label<b>
 circle(1.80, -0.27)
 text(1.80, -0.45, "X axis label")
 
-# Y Label
+<b>Y Label<b>
 circle(-0.27, 1.80)
 text(-0.27, 1.6, "Y axis label")
 
-# Title
+<b>Title<b>
 circle(1.60, 4.13)
 text(1.60, 3.93, "Title")
 
-# Blue plot
+<b>Blue plot<b>
 circle(1.75, 2.80)
 text(1.75, 2.60, "Line\n(line plot)")
 
-# Red plot
+<b>Red plot<b>
 circle(1.20, 0.60)
 text(1.20, 0.40, "Line\n(line plot)")
 
-# Scatter plot
+<b>Scatter plot<b>
 circle(3.20, 1.75)
 text(3.20, 1.55, "Markers\n(scatter plot)")
 
-# Grid
+<b>Grid<b>
 circle(3.00, 3.00)
 text(3.00, 2.80, "Grid")
 
-# Legend
+<b>Legend<b>
 circle(3.70, 3.80)
 text(3.70, 3.60, "Legend")
 
-# Axes
+<b>Axes<b>
 circle(0.5, 0.5)
 text(0.5, 0.3, "Axes")
 
-# Figure
+<b>Figure<b>
 circle(-0.3, 0.65)
 text(-0.3, 0.45, "Figure")
 
