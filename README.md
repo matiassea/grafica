@@ -8,10 +8,12 @@ General Information about grafical
 
 https://matplotlib.org/examples/showcase/anatomy.html
 
-```python
 
+```
 <b>This figure shows the name of several matplotlib elements composing a figure<b>
+```
 
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import AutoMinorLocator, MultipleLocator, FuncFormatter
@@ -74,8 +76,11 @@ def text(x, y, text):
     ax.text(x, y, text, backgroundcolor="white",
             ha='center', va='top', weight='bold', color='blue')
 
-
+```
 <b>Minor tick<b>
+```
+
+```python
 circle(0.50, -0.10)
 text(0.50, -0.32, "Minor tick label")
 
