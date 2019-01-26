@@ -8,8 +8,7 @@ General Information about grafical
 
 https://matplotlib.org/examples/showcase/anatomy.html
 
-
-'''python
+```python
 
 <b>This figure shows the name of several matplotlib elements composing a figure<b>
 
@@ -152,8 +151,7 @@ ax.text(4.0, -0.4, "Made with http://matplotlib.org",
 
 plt.show()
 
-
-'''
+```
 
 
 
